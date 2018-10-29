@@ -9,13 +9,13 @@
 ### Status
 In progress.
 
-#### What is this project 
+# What is this project 
 30 days JS cahllenge is a month long daily challenge I took up in October 2018. I found it on a random website with 10 recommended sources for JavaScript learners. 
 This course is perfect for begginers.
 
 Materials (HTML and CSS files and also video tutorials with instructions to follow) are provided by Wes Bos and can be found on https://wesbos.com/.
 
-##### List of projects
+# List of projects
 List of 30 mini JS projects:
 1. JS Drum kit
 2. CSS + JS clock
