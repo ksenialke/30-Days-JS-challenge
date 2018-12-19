@@ -7,7 +7,7 @@
 * [Technologies](#technologies)
 
 ## Status
-In progress.
+Finished.
 
 ## What is this project 
 30 days JS cahllenge is a month long daily challenge I took up in October 2018. I found it on a random website with 10 recommended sources for JavaScript learners. 
